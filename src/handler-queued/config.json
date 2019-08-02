@@ -1,0 +1,5 @@
+{
+    "amqp": "amqp://localhost:4000",
+    "queue": "crud-amqp",
+
+  }
